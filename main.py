@@ -94,7 +94,7 @@ def render_tileset(screen, tileset, overlay_a, overlay_b, overlay_c, tile_config
         pygame.draw.rect(screen, outline_color, rect, OUTLINE_WIDTH)
 def main():
     pygame.init()
-    print("\n\n> Tile Display Program by Sagivara \"Sagiri\" Himoto\n> Contact me:\n> Discord: SagiriHimoto\n> X/Twitter: SagiriHimoto\n> Github: SagiriHimoto")
+    print("\n\n> Tile Display Program by SagiriMax")
     tile_size, tile_configs = load_config(CONFIG_FILE)
     try:
         tileset = load_tileset(TILESET_FILE)

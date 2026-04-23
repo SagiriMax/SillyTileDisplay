@@ -47,7 +47,7 @@ python main.py
 ------------
 ### How to use
 > [!TIP]
-> You can contact "SagiriHimoto" on Discord for help!!!
+> You can contact me or create an issue for help
 #### Tileset File
 By default, `main.py` prompts user to input a tileset file (e.g. "tstTileset" to use "tstTileset.png")<br/>This behaviour can be changed. Edit line 17: 
 ```py
